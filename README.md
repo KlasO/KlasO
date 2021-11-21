@@ -5,6 +5,6 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with  -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: [my linktree](linktr.ee/KlasO)
+- 📫 How to reach me: https://linktr.ee/KlasO
 <!-- - 😄 Pronouns: he/him -->
 <!-- - ⚡ Fun fact: ... -->
